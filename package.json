@@ -4,5 +4,9 @@
   "description": "Books Api",
   "main": "app.js",
   "author": "grconnor",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.4.2"
+  }
 }
