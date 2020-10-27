@@ -1,0 +1,8 @@
+{
+  "name": "books_api",
+  "version": "1.0.0",
+  "description": "Books Api",
+  "main": "app.js",
+  "author": "grconnor",
+  "license": "MIT"
+}
